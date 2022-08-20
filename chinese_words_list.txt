@@ -175,3 +175,304 @@
 同事:colleague, co-worker
 抵达:to arrive, to reach
 前台:front desk, reception desk
+行李员:bellman, porter
+小事:No problem
+没事儿吧:No problem (Beijing style)
+应该的:No problem (to do something) (formal way)
+球迷:sports fan
+歌迷:song fan
+乐迷:music fan
+影迷:movie fan
+书米:book fan所
+粉丝:a fan (people admiring)
+中暑:heatstroke
+超级热:super hot
+華氏:Fahrenheit
+摄氏:Celcius
+今天几度？:How hot is it today?
+今天摄氏几度？How many Celsius is there today?
+说到。。。:Speaking of...
+警告:to warn
+精华:the best part, the most important part of something
+精简:to simplify, to reduce
+兢兢业业:cautious and conscientious (成语)
+敬礼:to salute someone
+精密:precise, accurate
+惊奇:astonished, amazed
+精确:accurate, exact
+竞赛:contest, competition
+精通:to be proficient
+镜头:camera lens, camera shot (in a movie), movie scene
+裸体:naked
+经纬:longitude and latitude
+精心:meticulously, painstakingly
+打扮:to dress
+竞选:to run for office (election)
+惊讶:surprised, astonished
+精益求精:to perfect something that is already outstanding, to constantly improve (成语)
+精致:delicate, fine, exquisite
+昂贵:expensive, costly
+纠纷:dispute, issue
+救济:to help the people in need of food/goods
+贫民:poor people
+就近:nearby
+酒精:alcohol, ethanol
+就业:to get a job
+纠正:to correct, to put right
+发音:to pronounce, pronunciation
+剧本:the script of a movie, the screenplay
+可疑:suspicious
+鞠躬:to bow
+聚精会神:to pay full attention to, to concentrate completely (成语)
+三角龙:triceratops
+三明治:sandwich
+沙拉:salad
+寿司:sushi
+火炉:a stove
+胃口:appetite
+饱:to have the stomach full
+电扇:electric fan
+风扇:electric fan
+空调：air conditioning
+你好性感:You are so sexy
+吃醋:to be jealous
+校服:uniform (outfit)
+本田:Honda (car brand)
+豐田:Toyota (car brand)
+日产:Nissan (car brand)
+三菱:Mitsubishi (car brand)
+铃木:Suzuki (car brand)
+松下:Panasonic
+任天堂:Nintendo
+拘留:to detain, to arrest
+沮丧:depressed
+举世闻名:world-famous
+举世瞩目:to attract world-wide attention
+据悉:to be reported
+局限:to limit, to confine
+居住:to reside, to live
+举足轻重:to play a keyrole, crucial, significant
+绝望:to despair, to give up all hope, desperate
+觉醒:to become fully aware of something as a fact, to awake
+透气:to breathe some fresh air
+傻瓜:idiot, fool
+名模:top fashion model
+内疚:to feel guilty, guilty
+小强:cockroach (slang)
+宾馆:hotel
+复制/粘贴:copy/paste
+似乎:apparently
+想念:to miss somebody
+变态:hentai??
+假装:to pretend
+前途:future, prospects,...
+战争:war, conflict
+受伤:to be injured, wounded
+面临:to face, to be confronted with
+巨大:huge, enormous, immense
+连续:continuously
+沙滩:beach, sandy shore
+唯一:only one, te sole
+信任:to trust, to have confidence in
+预算:budget
+伙伴:partner, companion, comrade
+淘气:naughty, mischievous
+用功:diligent, to study hard
+乐观:optimistic, hopeful
+点心:dessert, pastry
+茄子:eggplant
+寿命:life span, life expectancy
+鞋带:shoelace
+豆腐:Tofu
+显卡:graphics card, GPU
+我的中文说能不太好。:My chinese isn't good. (1)
+我说中文得不太好。:My chinese isn't good. (2)
+多人一卡:One GPU, many people (virtualization)
+超频:overclocking
+键:key (piano, computer), button (on mouse or other device)
+无法避免:inevitable, unpreventable
+失败:to fail, to lose...
+忙于:to be busy with something
+逃避:to escape, to evade, to dodge
+善良:kindness, good and honest
+用途:purpose, usecase
+享受:to enjoy, pleasure
+社会科学:social sciences
+戒指:a ring (jewelry)
+现金:cash
+供给:supply (of food, for example)
+资料:data, material, resources
+尽量:as much as possible 
+活跃:active, excited
+疯狂:insanely, crazy
+搭讪:to hit on someone, to strike up a conversation
+温柔:tender, gentle and soft
+牙齿:tooth, dental
+简历:CV, resume
+公寓:apartment
+吵架:to quarrel
+理论:a theory
+鳄鱼:crocodile
+有腔调:to sing well, to do things well
+赞成:to approve, to endorse
+逐渐:gradually
+农村:rural area, village
+教练:coach, instructor
+病毒:virus
+新冠病毒:Coronavirus
+游览:to visit, to go sightseeing
+傻:foolish
+剩女:leftover woman
+女强人:strong woman
+摩托车:moto
+破坏:to damage, to break, destruction...
+志愿者:volonteering
+班长:class monitor, team leader
+老百姓:normal people, ordinary people
+分析:analysis, to analyze
+调查:to investigate, to survey, investigation, survey
+挑战:a challenge, to challenge
+特殊:special, particular, extraordinary
+掌握:to grasp, to master, to know well
+贡献:contribution, to contribute
+十三点:crazy(in Shanghai)
+一见如故:familiar at first sight
+熟悉:to be familiar with, to know well 
+相互:each other, mutually
+对我来说:as far as i'm concerned
+海鲜:seafood
+还有:in addition, furthermore
+推荐:to recommend, recommendation
+烧烤:barbecue, to roast
+拼盘:appetizer platter
+美味:delicious
+海景:sea view
+生产:to produce, to manufacture, to give birth to a child
+到达:to arrive, to reach
+稳定:stable, stability, to stabilize
+灰尘:dust
+出毛病:a problem appears, to break down
+秘书:secretary
+追求:to pursue, to seek after
+所谓:so-called, what is called
+手帕:handkerchief
+人生:life (one's time on earth)
+讲话:a speech, to speak, to talk
+浪费:to waste
+自豪:proud
+滑：to slip
+中国共产党:Chinese Communist Party
+沉默:silent, taciturn
+乐子:pleasure, fun
+副作用:side effect
+癌症:cancer
+治疗:to treat, medical treatment, therapy
+尽快:as quick as possible
+惭愧:ashamed
+说谎:to lie
+媒体:media, news media
+断章取义:to quote out of context
+怀孕:pregnant, pregnancy
+急忙:hastily, quickly
+洒:to spill
+秒:second (unit of time)
+自动:automatic
+自动销毁:to self-destruct
+思考:to think about, to reflect on, to ponder over
+难题:difficult problem
+接触:to contact, in touch with
+潮湿:humid, wet
+合理:rational, reasonable, fair
+实验:experiment, test
+奇迹:miracle, miraculous, marvel
+改善:to improve
+校园:campus
+软件:software
+开源:open-source
+开源软件:open-source software
+重量:weight (of someone or of something)
+X光片:X-ray
+光滑:smooth, glossy, sleek
+乐器:music instrument
+深刻:deep, profound
+烟:cigarette
+缩短:to cut down
+风险:risk
+手套:glove
+好心:kindness, good intentions
+一举一动:every movement, each and every move
+香蕉:banana
+理智派生活:The Rational Life (Netflix show)
+副二代:born with a silver spoon
+老克勒:old white collar men / elites in Shanghaï
+打岔:to interrupt
+闭嘴:Shut up
+好球:Nice shot! (sports)
+谈恋爱:to be dating, in a relationship
+面试:to be interviewed (as a candidate)
+竟然:surprisingly
+公平:fair, impartial
+公正:just, fair, equitable
+做。。。使我快乐:doing ... makes me happy
+丑:ugly
+放屁:Bullshit!
+演奏:to play a music instrument
+乐器:music instrument
+看不起:to look down (on sb)
+立刻:immediately
+优势:superiority, dominance
+南非:South Africa
+媒体:the media
+挂号:to register at the hospital
+瑞典:Sweden
+门外:outside the door
+关门:close the door
+姥姥:maternal grandmother (informal)
+涨价:to increase in price
+女神:goddess, nymph
+而是:instead, but rather
+辣椒酱:chili sauce
+便宜:cheap
+出名:to be famous
+华人超市:Chinese supermarket
+虽然:although, even though
+价格:price
+绕口令:tongue-twister
+充电器:battery or phone charger
+插座:electric socket/outlet
+银行卡:bank card
+老话:old saying
+小声:in a low voice, whispering
+买单:to pay a bill, to pay for someone's debt
+卡:to stop, to block (computing)
+电视剧:TV drama
+网速:internet speed
+奖金:bonus
+方言:dialect
+啦:sentence-final particle, contraction of 了啊
+表达:to express, to convey
+给力:cool, awesome, impressive
+一眼:a glance, a quick look, a glimpse
+着急:to be in a hurry, to feel anxious
+嘴角:corner of the mouth
+眼角:corner of the eye (inner or outter), canthus
+耳朵:ear
+往:to go, to, towards
+点点头:to nod
+向下:down, downward
+警官:police officer
+纸钱:ritual money made of paper burnt for the Gods or the dead
+扫墓:to sweep the tombs
+农历:lunar calendar
+分别:sepatately, individually
+方向:direction, orientation
+干净:clean, neat
+保罗:Paul
+习俗:custom, tradition, local tradition
+传统:tradition, traditional
+坐月子:postpartum confinement, month of recovery after childbirth
+小老婆:concubine, mistress
+二奶:mistress, second wife
+五月天:Mayday (Taiwanese boy band formed in the 90s)
+辣椒酱:chili sauce
+集团:corporate group
